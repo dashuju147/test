@@ -1,2 +1,2 @@
 def register_tasks():
-    return ["knowledge", "questions"]
+    return ["knowledge", "questions","knowledge-timeout"]
