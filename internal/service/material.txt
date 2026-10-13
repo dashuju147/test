@@ -1,0 +1,3 @@
+def generate_materials():
+    return "卖点库生成"
+	
