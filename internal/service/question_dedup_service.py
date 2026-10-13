@@ -1,2 +1,2 @@
 def dedup_questions():
-    return "问题库去重"
+    return "去掉重复的问题"
